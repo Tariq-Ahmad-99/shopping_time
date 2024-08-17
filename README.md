@@ -1,7 +1,9 @@
 Shopping Time 🛒
+
 Shopping Time is a dynamic and user-friendly shopping app built using Flutter. The app allows users to create and manage their shopping lists with ease, providing a smooth and intuitive user experience.
 
 Technologies Used 🛠️
+
 Flutter: Frontend framework for building natively compiled applications.
 Firebase: Backend as a Service for authentication and data storage.
 Dart: Programming language for Flutter app development.
