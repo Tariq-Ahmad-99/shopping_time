@@ -1,8 +1,8 @@
-#Shopping Time 🛒#
+# Shopping Time 🛒#
 
 Shopping Time is a dynamic and user-friendly shopping app built using Flutter. The app allows users to create and manage their shopping lists with ease, providing a smooth and intuitive user experience.
 
-#Technologies Used 🛠️#
+# Technologies Used 🛠️#
 
 Flutter: Frontend framework for building natively compiled applications.
 
